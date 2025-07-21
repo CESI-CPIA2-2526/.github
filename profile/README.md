@@ -57,7 +57,3 @@ Merci de respecter les bonnes pratiques suivantes :
 Pour toute question relative à cette organisation GitHub :
 Responsable pédagogique : **Rohan Fossé**
 📧 [rfosse@cesi.fr](mailto:rfosse@cesi.fr) 
-
----
-
-### 🚀 Bon travail à tous, amusez-vous en développant ! 🎯
