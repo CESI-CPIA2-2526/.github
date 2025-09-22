@@ -2,7 +2,7 @@
 
 Bienvenue dans l’organisation GitHub officielle des étudiants **CPIA2 Info 2025/2026** du **CESI Montpellier**.
 
-## 📋 Objectif de cette organisation
+## Objectif de cette organisation
 
 Cet espace collaboratif a pour but de :
 
@@ -12,7 +12,7 @@ Cet espace collaboratif a pour but de :
 
 ---
 
-## 🏗️ Structure de l’organisation
+## Structure de l’organisation
 
 L’organisation est composée de deux types principaux de dépôts :
 
@@ -22,7 +22,7 @@ L’organisation est composée de deux types principaux de dépôts :
 * Ces dépôts sont préconfigurés (README, éventuels templates) et regroupent tout ce qui concerne chaque projet.
 * **Objectif : travailler en équipe sur un repository commun, faire des commits clairs et utiliser GitHub comme outil de collaboration.**
 
-### 🔹 Dépôts personnels
+### Dépôts personnels
 
 * Chaque étudiant possède **un dépôt personnel** :
 
@@ -31,7 +31,7 @@ L’organisation est composée de deux types principaux de dépôts :
 
 ---
 
-## 📦 Organisation attendue dans vos dépôts
+## Organisation attendue dans vos dépôts
 
 Merci de respecter les bonnes pratiques suivantes :
 
@@ -42,9 +42,9 @@ Merci de respecter les bonnes pratiques suivantes :
 
 ---
 
-## 📝 Rappel : règles d’utilisation
+## Rappel : règles d’utilisation
 
-✅ Cet espace est un **outil pédagogique et professionnel** :
+Cet espace est un **outil pédagogique et professionnel** :
 
 * Respectez vos pairs et votre encadrant.
 * Soyez rigoureux : pas de code "brouillon" poussé directement sur la branche principale sans relecture.
@@ -52,7 +52,7 @@ Merci de respecter les bonnes pratiques suivantes :
 
 ---
 
-## 📫 Contact
+## Contact
 
 Pour toute question relative à cette organisation GitHub :
 Responsable pédagogique : **Rohan Fossé**
