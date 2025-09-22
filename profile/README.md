@@ -16,7 +16,7 @@ Cet espace collaboratif a pour but de :
 
 L’organisation est composée de deux types principaux de dépôts :
 
-### 🔹 Dépôts projets communs
+### Dépôts projets communs
 
 * Un dépôt par projet que vous devrez réaliser en équipe.
 * Ces dépôts sont préconfigurés (README, éventuels templates) et regroupent tout ce qui concerne chaque projet.
