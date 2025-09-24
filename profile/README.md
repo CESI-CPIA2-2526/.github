@@ -2,6 +2,13 @@
 
 Bienvenue dans l’organisation GitHub officielle des étudiants **CPIA2 Info 2025/2026** du **CESI Montpellier**.
 
+## Liens rapides
+
+### Projet Système Embarqué
+
+* [SE-groupe-01](Groupe 01)
+* [SE-groupe-02](Groupe 02)
+
 ## Objectif de cette organisation
 
 Cet espace collaboratif a pour but de :
