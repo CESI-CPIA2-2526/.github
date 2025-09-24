@@ -6,8 +6,8 @@ Bienvenue dans l’organisation GitHub officielle des étudiants **CPIA2 Info 20
 
 ### Projet Système Embarqué
 
-* [SE-groupe-01](Groupe 01)
-* [SE-groupe-02](Groupe 02)
+* Lien du groupe 01 : https://github.com/CESI-CPIA2-2526/SE-groupe-01
+* Lien du groupe 02 : https://github.com/CESI-CPIA2-2526/SE-groupe-02
 
 ## Objectif de cette organisation
 
