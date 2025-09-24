@@ -6,8 +6,11 @@ Bienvenue dans l’organisation GitHub officielle des étudiants **CPIA2 Info 20
 
 ### Projet Système Embarqué
 
-* Lien du groupe 01 : https://github.com/CESI-CPIA2-2526/SE-groupe-01
-* Lien du groupe 02 : https://github.com/CESI-CPIA2-2526/SE-groupe-02
+* Moodle : https://scenari.cesi.fr/~~static/distrib/fr-FR/prv-lti/cesi/player.xhtml?ltiConnectionId=11l
+* Github du projet : https://github.com/CESI-CPIA2-2526/1-Systemes-embarques
+* Github du groupe 01 : https://github.com/CESI-CPIA2-2526/SE-groupe-01
+* Github du groupe 02 : https://github.com/CESI-CPIA2-2526/SE-groupe-02
+* Tinkercad : https://www.tinkercad.com/dashboard/designs/circuits
 
 ## Objectif de cette organisation
 
