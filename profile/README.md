@@ -4,6 +4,13 @@ Bienvenue dans l’organisation GitHub officielle des étudiants **CPIA2 Info 20
 
 ## Liens rapides
 
+### Projet Conception et Programmation Objet
+
+* Moodle : https://moodle.cesi.fr/course/view.php?id=5170
+* Github du projet : https://github.com/CESI-CPIA2-2526/2-Conception-programmation-objet
+* Github du groupe 01 :
+* Github du groupe 02 :
+
 ### Projet Système Embarqué
 
 * Moodle : https://scenari.cesi.fr/~~static/distrib/fr-FR/prv-lti/cesi/player.xhtml?ltiConnectionId=11l
