@@ -7,6 +7,7 @@ Bienvenue dans l’organisation GitHub officielle des étudiants **CPIA2 Info 20
 ### Projet Conception et Programmation Objet
 
 * Moodle : https://moodle.cesi.fr/course/view.php?id=5170
+* Tutoriel d'installation Visual Studio : https://github.com/Sybaris-Classroom/Exercices/tree/master/installCpp
 * Github du projet : https://github.com/CESI-CPIA2-2526/2-Conception-programmation-objet
 * Github du groupe 01 :
 * Github du groupe 02 :
