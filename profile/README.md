@@ -9,8 +9,8 @@ Bienvenue dans l’organisation GitHub officielle des étudiants **CPIA2 Info 20
 * Moodle : https://moodle.cesi.fr/course/view.php?id=5170
 * Tutoriel d'installation Visual Studio : https://github.com/Sybaris-Classroom/Exercices/tree/master/installCpp
 * Github du projet : https://github.com/CESI-CPIA2-2526/2-Conception-programmation-objet
-* Github du groupe 01 :
-* Github du groupe 02 :
+* Github du groupe 01 : https://github.com/CESI-CPIA2-2526/POO-groupe-01
+* Github du groupe 02 : https://github.com/CESI-CPIA2-2526/POO-groupe-02
 
 ### Projet Système Embarqué
 
