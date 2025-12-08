@@ -4,6 +4,13 @@ Bienvenue dans l’organisation GitHub officielle des étudiants **CPIA2 Info 20
 
 ## Liens rapides
 
+### Projet Réseau & Système
+
+* Moodle : [https://moodle.cesi.fr/course/view.php?id=5170](https://moodle.cesi.fr/course/view.php?id=5171)
+* Github du projet : https://github.com/CESI-CPIA2-2526/3-Reseau
+* Github du groupe 01 : https://github.com/CESI-CPIA2-2526/Reseau-groupe-01
+* Github du groupe 02 : https://github.com/CESI-CPIA2-2526/Reseau-groupe-02
+
 ### Projet Conception et Programmation Objet
 
 * Moodle : https://moodle.cesi.fr/course/view.php?id=5170
