@@ -1,4 +1,4 @@
-# Organisation GitHub — CPIA2 Info 2025/2026 — CESI Montpellier
+# Organisation GitHub - CPIA2 Info 2025/2026 - CESI Montpellier
 
 Bienvenue dans l’organisation GitHub officielle des étudiants **CPIA2 Info 2025/2026** du **CESI Montpellier**.
 
