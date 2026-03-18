@@ -4,6 +4,8 @@ Bienvenue dans l’organisation GitHub officielle des étudiants **CPIA2 Info 20
 
 ## Liens rapides
 
+* Mathématiques : https://github.com/CESI-CPIA2-2526/0-Mathematiques
+
 ### Projet Programmation Web
 
 * Moodle : [https://moodle.cesi.fr/course/view.php?id=5172](https://moodle.cesi.fr/course/view.php?id=5172)
